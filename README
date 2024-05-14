@@ -1,3 +1,15 @@
-Tableau project showcasing data analytics skills through Sales data analysis.
+Tableau Project: Sales Analysis
+Welcome to the Sales Analysis project using Tableau! This project involves visualizing and analyzing sales data to gain insights and make data-driven decisions.
+
+Description: 
+This project aims to provide comprehensive insights into sales performance using Tableau's powerful visualization capabilities. The project explores various aspects of sales data, including revenue trends, product performance, customer segmentation, geographical distribution, and sales forecasting.
+
+Features: 
+Visual Dashboard: The Tableau dashboard offers an interactive and visually appealing interface for exploring sales data.
+Dynamic Visualizations: Utilizes a range of visualizations such as bar charts, line graphs, pie charts, scatter plots, and geographical maps to represent sales data effectively.
+Drill-Down Analysis: Users can drill down into specific data points to uncover underlying trends or patterns and identify areas for improvement.
+Filter Options: Includes filter options for users to focus on specific time periods, product categories, customer segments, or geographical regions.
+Key Performance Indicators (KPIs): Highlights key performance metrics such as total revenue, average order value, top-selling products, customer retention rate, and sales growth rate.
+Predictive Analytics: Utilizes Tableau's forecasting capabilities to predict future sales trends and opportunities.
 
 Link to project: https://public.tableau.com/app/profile/riaz4244/viz/DataAnalyticsProject_17139820308680/Dashboard
